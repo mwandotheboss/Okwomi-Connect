@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926888649657",
+    "project_id": "okwomi-connect",
+    "storage_bucket": "okwomi-connect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926888649657:android:fcb1f9825861b835218c68",
+        "android_client_info": {
+          "package_name": "smartware.africa.okwomiconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwvhGP0ZHHcaxO5R--4jhnuBOZIXBsjEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
