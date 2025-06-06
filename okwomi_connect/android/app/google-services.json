@@ -12,7 +12,20 @@
           "package_name": "smartware.africa.okwomiconnect"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "926888649657-tjqdvk3pnj35fp34g8a656ggr70ufb6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartware.africa.okwomiconnect",
+            "certificate_hash": "20c7d8a63315e635ddff941fd09d04004b4f9587"
+          }
+        },
+        {
+          "client_id": "926888649657-nsn4irha6hmji54vn1dl74r42rv3ldce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDwvhGP0ZHHcaxO5R--4jhnuBOZIXBsjEI"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926888649657-nsn4irha6hmji54vn1dl74r42rv3ldce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
